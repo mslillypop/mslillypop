@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Lilly and I am an aspiring Frontend Developer
 
+- 🌱 I’m currently learning all things Frontend Development and having lots of fun in the process
+- 🌍 Norwegian living in the UK
+
+I have experience working with:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,wordpress,)](https://skillicons.dev)
 <!--
 **mslillypop/mslillypop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
